@@ -41,7 +41,7 @@ Tested against n8n version 1.34+
 ## Resources
 
 * [n8n community nodes documentation](https://docs.n8n.io/integrations/community-nodes/)
-* [Enfocus](https://www.enfocus.com/)
+* [Enfocus website](https://www.enfocus.com/)
   
 ## License
 
